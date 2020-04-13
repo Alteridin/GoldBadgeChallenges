@@ -13,6 +13,20 @@ namespace BadgesLib
         {
             return _badgeDict;
         }
+        public void ShowOneBadge(int badgeId)
+        {
+            foreach (KeyValuePair<int, List<string>> oneBadge in _badgeDict)
+            {
+                if (oneBadge.Key == badgeId)
+                {
+                    Console.Write($"{oneBadge.Key} has access to doors: ");
+                    foreach (string door in oneBadge.Value)
+                    {
+                        Console.Write($"{door} | ");
+                    }
+                }
+            }
+        }
         public bool NewBadge(Badges idDoor)
         {
             int startingCount = _badgeDict.Count;

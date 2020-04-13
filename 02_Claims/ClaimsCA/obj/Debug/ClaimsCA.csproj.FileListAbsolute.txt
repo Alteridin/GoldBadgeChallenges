@@ -18,3 +18,13 @@ C:\ElevenFiftyProjects\Gold Badge\Challenges\02_Claims\ClaimsCA\obj\Debug\Claims
 C:\ElevenFiftyProjects\Gold Badge\Challenges\02_Claims\ClaimsCA\obj\Debug\ClaimsCA.csproj.CopyComplete
 C:\ElevenFiftyProjects\Gold Badge\Challenges\02_Claims\ClaimsCA\obj\Debug\ClaimsCA.exe
 C:\ElevenFiftyProjects\Gold Badge\Challenges\02_Claims\ClaimsCA\obj\Debug\ClaimsCA.pdb
+C:\ElevenFiftyProjects\Gold Badge\Challenges\GoldBadgeChallenges\02_Claims\ClaimsCA\bin\Debug\ClaimsCA.exe.config
+C:\ElevenFiftyProjects\Gold Badge\Challenges\GoldBadgeChallenges\02_Claims\ClaimsCA\bin\Debug\ClaimsCA.exe
+C:\ElevenFiftyProjects\Gold Badge\Challenges\GoldBadgeChallenges\02_Claims\ClaimsCA\bin\Debug\ClaimsCA.pdb
+C:\ElevenFiftyProjects\Gold Badge\Challenges\GoldBadgeChallenges\02_Claims\ClaimsCA\bin\Debug\Claims.dll
+C:\ElevenFiftyProjects\Gold Badge\Challenges\GoldBadgeChallenges\02_Claims\ClaimsCA\bin\Debug\Claims.pdb
+C:\ElevenFiftyProjects\Gold Badge\Challenges\GoldBadgeChallenges\02_Claims\ClaimsCA\obj\Debug\ClaimsCA.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Gold Badge\Challenges\GoldBadgeChallenges\02_Claims\ClaimsCA\obj\Debug\ClaimsCA.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Gold Badge\Challenges\GoldBadgeChallenges\02_Claims\ClaimsCA\obj\Debug\ClaimsCA.csproj.CopyComplete
+C:\ElevenFiftyProjects\Gold Badge\Challenges\GoldBadgeChallenges\02_Claims\ClaimsCA\obj\Debug\ClaimsCA.exe
+C:\ElevenFiftyProjects\Gold Badge\Challenges\GoldBadgeChallenges\02_Claims\ClaimsCA\obj\Debug\ClaimsCA.pdb

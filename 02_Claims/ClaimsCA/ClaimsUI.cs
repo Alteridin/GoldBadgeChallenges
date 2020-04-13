@@ -11,7 +11,7 @@ namespace ClaimsCA
 {
     class ClaimsUI
     {
-        private ClaimsRepository _claimsRepo = new ClaimsRepository();
+        private readonly ClaimsRepository _claimsRepo = new ClaimsRepository();
         public void Run()
         {
             SeedClaimsQueue();
@@ -20,8 +20,6 @@ namespace ClaimsCA
         }
         private void RunTitle()
         {
-            Console.SetWindowSize(180, 50);
-            Console.SetWindowPosition(0, 0);
             string welcome = "Welcome to Komodo Insurance Claims system...";
             string version = "Version: 1.0";
             string system = "...System Loaded...";

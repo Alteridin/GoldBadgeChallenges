@@ -19,7 +19,7 @@ namespace BadgesCA
         }
         private void RunTitle()
         {
-            /*string welcome = "Welcome to Komodo Insurance Badge Updating system...";
+            string welcome = "Welcome to Komodo Insurance Badge Updating system...";
             string version = "Version: 1.0";
             string system = "...Welcome Security Agent 113...\n" + "Access Granted";
             string enter = "Press Enter to continue...";
@@ -42,7 +42,7 @@ namespace BadgesCA
             Console.ForegroundColor = ConsoleColor.Red;
             Console.Write(enter);
             Console.ReadKey();
-            Console.Beep();*/
+            Console.Beep();
         }
         private void RunProgram()
         {

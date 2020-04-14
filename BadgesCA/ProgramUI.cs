@@ -19,6 +19,10 @@ namespace BadgesCA
         }
         private void RunTitle()
         {
+            int a = 7;
+            int b = 2;
+            int c = a / b;
+            Console.WriteLine(c);
             string welcome = "Welcome to Komodo Insurance Badge Updating system...";
             string version = "Version: 1.0";
             string system = "...Welcome Security Agent 113...\n" + "Access Granted";
